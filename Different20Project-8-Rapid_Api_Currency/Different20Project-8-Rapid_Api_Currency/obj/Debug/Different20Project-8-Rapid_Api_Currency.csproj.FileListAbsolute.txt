@@ -1,0 +1,13 @@
+C:\Users\eMu\source\repos\Different20Project-8-Rapid_Api_Currency\Different20Project-8-Rapid_Api_Currency\bin\Debug\Different20Project-8-Rapid_Api_Currency.exe.config
+C:\Users\eMu\source\repos\Different20Project-8-Rapid_Api_Currency\Different20Project-8-Rapid_Api_Currency\bin\Debug\Different20Project-8-Rapid_Api_Currency.exe
+C:\Users\eMu\source\repos\Different20Project-8-Rapid_Api_Currency\Different20Project-8-Rapid_Api_Currency\bin\Debug\Different20Project-8-Rapid_Api_Currency.pdb
+C:\Users\eMu\source\repos\Different20Project-8-Rapid_Api_Currency\Different20Project-8-Rapid_Api_Currency\bin\Debug\Newtonsoft.Json.dll
+C:\Users\eMu\source\repos\Different20Project-8-Rapid_Api_Currency\Different20Project-8-Rapid_Api_Currency\bin\Debug\Newtonsoft.Json.xml
+C:\Users\eMu\source\repos\Different20Project-8-Rapid_Api_Currency\Different20Project-8-Rapid_Api_Currency\obj\Debug\Different20Project-8-Rapid_Api_Currency.csproj.AssemblyReference.cache
+C:\Users\eMu\source\repos\Different20Project-8-Rapid_Api_Currency\Different20Project-8-Rapid_Api_Currency\obj\Debug\Different20Project_8_Rapid_Api_Currency.Form1.resources
+C:\Users\eMu\source\repos\Different20Project-8-Rapid_Api_Currency\Different20Project-8-Rapid_Api_Currency\obj\Debug\Different20Project_8_Rapid_Api_Currency.Properties.Resources.resources
+C:\Users\eMu\source\repos\Different20Project-8-Rapid_Api_Currency\Different20Project-8-Rapid_Api_Currency\obj\Debug\Different20Project-8-Rapid_Api_Currency.csproj.GenerateResource.cache
+C:\Users\eMu\source\repos\Different20Project-8-Rapid_Api_Currency\Different20Project-8-Rapid_Api_Currency\obj\Debug\Different20Project-8-Rapid_Api_Currency.csproj.CoreCompileInputs.cache
+C:\Users\eMu\source\repos\Different20Project-8-Rapid_Api_Currency\Different20Project-8-Rapid_Api_Currency\obj\Debug\Differen.6CA281E5.Up2Date
+C:\Users\eMu\source\repos\Different20Project-8-Rapid_Api_Currency\Different20Project-8-Rapid_Api_Currency\obj\Debug\Different20Project-8-Rapid_Api_Currency.exe
+C:\Users\eMu\source\repos\Different20Project-8-Rapid_Api_Currency\Different20Project-8-Rapid_Api_Currency\obj\Debug\Different20Project-8-Rapid_Api_Currency.pdb

@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Dıfferent20Project-6-ApıWeather")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+8aa6903b5c548020d09d539cb8742a2f88b9b6b5")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+207e46faf069a7572e9cf64a7f8692651ac5a2dc")]
 [assembly: System.Reflection.AssemblyProductAttribute("Dıfferent20Project-6-ApıWeather")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Dıfferent20Project-6-ApıWeather")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

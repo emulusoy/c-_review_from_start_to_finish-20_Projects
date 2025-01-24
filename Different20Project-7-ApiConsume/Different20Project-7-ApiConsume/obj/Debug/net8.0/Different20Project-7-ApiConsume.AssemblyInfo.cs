@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Different20Project-7-ApiConsume")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+7201e8944248a0c9b7e1f64298cca6f4240148fa")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+207e46faf069a7572e9cf64a7f8692651ac5a2dc")]
 [assembly: System.Reflection.AssemblyProductAttribute("Different20Project-7-ApiConsume")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Different20Project-7-ApiConsume")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
