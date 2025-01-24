@@ -1,0 +1,13 @@
+C:\Users\eMu\source\repos\Different20Project-5-Dapper_Northwind\Different20Project-5-Dapper_Northwind\obj\Debug\Different20Project-5-Dapper_Northwind.csproj.AssemblyReference.cache
+C:\Users\eMu\source\repos\Different20Project-5-Dapper_Northwind\Different20Project-5-Dapper_Northwind\obj\Debug\Different20Project_5_Dapper_Northwind.Form1.resources
+C:\Users\eMu\source\repos\Different20Project-5-Dapper_Northwind\Different20Project-5-Dapper_Northwind\obj\Debug\Different20Project_5_Dapper_Northwind.Properties.Resources.resources
+C:\Users\eMu\source\repos\Different20Project-5-Dapper_Northwind\Different20Project-5-Dapper_Northwind\obj\Debug\Different20Project-5-Dapper_Northwind.csproj.GenerateResource.cache
+C:\Users\eMu\source\repos\Different20Project-5-Dapper_Northwind\Different20Project-5-Dapper_Northwind\obj\Debug\Different20Project-5-Dapper_Northwind.csproj.CoreCompileInputs.cache
+C:\Users\eMu\source\repos\Different20Project-5-Dapper_Northwind\Different20Project-5-Dapper_Northwind\bin\Debug\Different20Project-5-Dapper_Northwind.exe.config
+C:\Users\eMu\source\repos\Different20Project-5-Dapper_Northwind\Different20Project-5-Dapper_Northwind\bin\Debug\Different20Project-5-Dapper_Northwind.exe
+C:\Users\eMu\source\repos\Different20Project-5-Dapper_Northwind\Different20Project-5-Dapper_Northwind\bin\Debug\Different20Project-5-Dapper_Northwind.pdb
+C:\Users\eMu\source\repos\Different20Project-5-Dapper_Northwind\Different20Project-5-Dapper_Northwind\bin\Debug\Dapper.dll
+C:\Users\eMu\source\repos\Different20Project-5-Dapper_Northwind\Different20Project-5-Dapper_Northwind\bin\Debug\Dapper.xml
+C:\Users\eMu\source\repos\Different20Project-5-Dapper_Northwind\Different20Project-5-Dapper_Northwind\obj\Debug\Differen.EE6CCA93.Up2Date
+C:\Users\eMu\source\repos\Different20Project-5-Dapper_Northwind\Different20Project-5-Dapper_Northwind\obj\Debug\Different20Project-5-Dapper_Northwind.exe
+C:\Users\eMu\source\repos\Different20Project-5-Dapper_Northwind\Different20Project-5-Dapper_Northwind\obj\Debug\Different20Project-5-Dapper_Northwind.pdb

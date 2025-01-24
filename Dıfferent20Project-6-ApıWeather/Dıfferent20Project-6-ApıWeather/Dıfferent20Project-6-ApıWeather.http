@@ -1,0 +1,6 @@
+@Dıfferent20Project_6_ApıWeather_HostAddress = http://localhost:5105
+
+GET {{Dıfferent20Project_6_ApıWeather_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

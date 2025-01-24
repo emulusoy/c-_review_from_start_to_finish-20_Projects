@@ -1,0 +1,143 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\eMu\\source\\repos\\D\u0131fferent20Project-6-Ap\u0131Weather\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7571529E-1ADE-411E-BD9C-1975083FCE34}|D\u0131fferent20Project-6-Ap\u0131Weather\\D\u0131fferent20Project-6-Ap\u0131Weather.csproj|c:\\users\\emu\\source\\repos\\d\u0131fferent20project-6-ap\u0131weather\\d\u0131fferent20project-6-ap\u0131weather\\controllers\\weatherscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7571529E-1ADE-411E-BD9C-1975083FCE34}|D\u0131fferent20Project-6-Ap\u0131Weather\\D\u0131fferent20Project-6-Ap\u0131Weather.csproj|solutionrelative:d\u0131fferent20project-6-ap\u0131weather\\controllers\\weatherscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7571529E-1ADE-411E-BD9C-1975083FCE34}|D\u0131fferent20Project-6-Ap\u0131Weather\\D\u0131fferent20Project-6-Ap\u0131Weather.csproj|c:\\users\\emu\\source\\repos\\d\u0131fferent20project-6-ap\u0131weather\\d\u0131fferent20project-6-ap\u0131weather\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{7571529E-1ADE-411E-BD9C-1975083FCE34}|D\u0131fferent20Project-6-Ap\u0131Weather\\D\u0131fferent20Project-6-Ap\u0131Weather.csproj|solutionrelative:d\u0131fferent20project-6-ap\u0131weather\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7571529E-1ADE-411E-BD9C-1975083FCE34}|D\u0131fferent20Project-6-Ap\u0131Weather\\D\u0131fferent20Project-6-Ap\u0131Weather.csproj|c:\\users\\emu\\source\\repos\\d\u0131fferent20project-6-ap\u0131weather\\d\u0131fferent20project-6-ap\u0131weather\\context\\weathercontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7571529E-1ADE-411E-BD9C-1975083FCE34}|D\u0131fferent20Project-6-Ap\u0131Weather\\D\u0131fferent20Project-6-Ap\u0131Weather.csproj|solutionrelative:d\u0131fferent20project-6-ap\u0131weather\\context\\weathercontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7571529E-1ADE-411E-BD9C-1975083FCE34}|D\u0131fferent20Project-6-Ap\u0131Weather\\D\u0131fferent20Project-6-Ap\u0131Weather.csproj|c:\\users\\emu\\source\\repos\\d\u0131fferent20project-6-ap\u0131weather\\d\u0131fferent20project-6-ap\u0131weather\\entities\\city.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7571529E-1ADE-411E-BD9C-1975083FCE34}|D\u0131fferent20Project-6-Ap\u0131Weather\\D\u0131fferent20Project-6-Ap\u0131Weather.csproj|solutionrelative:d\u0131fferent20project-6-ap\u0131weather\\entities\\city.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7571529E-1ADE-411E-BD9C-1975083FCE34}|D\u0131fferent20Project-6-Ap\u0131Weather\\D\u0131fferent20Project-6-Ap\u0131Weather.csproj|c:\\users\\emu\\source\\repos\\d\u0131fferent20project-6-ap\u0131weather\\d\u0131fferent20project-6-ap\u0131weather\\migrations\\wathercontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7571529E-1ADE-411E-BD9C-1975083FCE34}|D\u0131fferent20Project-6-Ap\u0131Weather\\D\u0131fferent20Project-6-Ap\u0131Weather.csproj|solutionrelative:d\u0131fferent20project-6-ap\u0131weather\\migrations\\wathercontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7571529E-1ADE-411E-BD9C-1975083FCE34}|D\u0131fferent20Project-6-Ap\u0131Weather\\D\u0131fferent20Project-6-Ap\u0131Weather.csproj|c:\\users\\emu\\source\\repos\\d\u0131fferent20project-6-ap\u0131weather\\d\u0131fferent20project-6-ap\u0131weather\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7571529E-1ADE-411E-BD9C-1975083FCE34}|D\u0131fferent20Project-6-Ap\u0131Weather\\D\u0131fferent20Project-6-Ap\u0131Weather.csproj|solutionrelative:d\u0131fferent20project-6-ap\u0131weather\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7571529E-1ADE-411E-BD9C-1975083FCE34}|D\u0131fferent20Project-6-Ap\u0131Weather\\D\u0131fferent20Project-6-Ap\u0131Weather.csproj|c:\\users\\emu\\source\\repos\\d\u0131fferent20project-6-ap\u0131weather\\d\u0131fferent20project-6-ap\u0131weather\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7571529E-1ADE-411E-BD9C-1975083FCE34}|D\u0131fferent20Project-6-Ap\u0131Weather\\D\u0131fferent20Project-6-Ap\u0131Weather.csproj|solutionrelative:d\u0131fferent20project-6-ap\u0131weather\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\eMu\\source\\repos\\D\u0131fferent20Project-6-Ap\u0131Weather\\D\u0131fferent20Project-6-Ap\u0131Weather\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "D\u0131fferent20Project-6-Ap\u0131Weather\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\eMu\\source\\repos\\D\u0131fferent20Project-6-Ap\u0131Weather\\D\u0131fferent20Project-6-Ap\u0131Weather\\Properties\\launchSettings.json",
+              "RelativeToolTip": "D\u0131fferent20Project-6-Ap\u0131Weather\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAABFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-01-23T12:25:53.197Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "City.cs",
+              "DocumentMoniker": "C:\\Users\\eMu\\source\\repos\\D\u0131fferent20Project-6-Ap\u0131Weather\\D\u0131fferent20Project-6-Ap\u0131Weather\\Entities\\City.cs",
+              "RelativeDocumentMoniker": "D\u0131fferent20Project-6-Ap\u0131Weather\\Entities\\City.cs",
+              "ToolTip": "C:\\Users\\eMu\\source\\repos\\D\u0131fferent20Project-6-Ap\u0131Weather\\D\u0131fferent20Project-6-Ap\u0131Weather\\Entities\\City.cs",
+              "RelativeToolTip": "D\u0131fferent20Project-6-Ap\u0131Weather\\Entities\\City.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-23T12:25:47.169Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "WatherContextModelSnapshot.cs",
+              "DocumentMoniker": "C:\\Users\\eMu\\source\\repos\\D\u0131fferent20Project-6-Ap\u0131Weather\\D\u0131fferent20Project-6-Ap\u0131Weather\\Migrations\\WatherContextModelSnapshot.cs",
+              "RelativeDocumentMoniker": "D\u0131fferent20Project-6-Ap\u0131Weather\\Migrations\\WatherContextModelSnapshot.cs",
+              "ToolTip": "C:\\Users\\eMu\\source\\repos\\D\u0131fferent20Project-6-Ap\u0131Weather\\D\u0131fferent20Project-6-Ap\u0131Weather\\Migrations\\WatherContextModelSnapshot.cs",
+              "RelativeToolTip": "D\u0131fferent20Project-6-Ap\u0131Weather\\Migrations\\WatherContextModelSnapshot.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-23T12:25:42.956Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "WeatherForecast.cs",
+              "DocumentMoniker": "C:\\Users\\eMu\\source\\repos\\D\u0131fferent20Project-6-Ap\u0131Weather\\D\u0131fferent20Project-6-Ap\u0131Weather\\WeatherForecast.cs",
+              "RelativeDocumentMoniker": "D\u0131fferent20Project-6-Ap\u0131Weather\\WeatherForecast.cs",
+              "ToolTip": "C:\\Users\\eMu\\source\\repos\\D\u0131fferent20Project-6-Ap\u0131Weather\\D\u0131fferent20Project-6-Ap\u0131Weather\\WeatherForecast.cs",
+              "RelativeToolTip": "D\u0131fferent20Project-6-Ap\u0131Weather\\WeatherForecast.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-23T12:25:35.991Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\eMu\\source\\repos\\D\u0131fferent20Project-6-Ap\u0131Weather\\D\u0131fferent20Project-6-Ap\u0131Weather\\Program.cs",
+              "RelativeDocumentMoniker": "D\u0131fferent20Project-6-Ap\u0131Weather\\Program.cs",
+              "ToolTip": "C:\\Users\\eMu\\source\\repos\\D\u0131fferent20Project-6-Ap\u0131Weather\\D\u0131fferent20Project-6-Ap\u0131Weather\\Program.cs",
+              "RelativeToolTip": "D\u0131fferent20Project-6-Ap\u0131Weather\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-23T12:25:34.311Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "WeatherContext.cs",
+              "DocumentMoniker": "C:\\Users\\eMu\\source\\repos\\D\u0131fferent20Project-6-Ap\u0131Weather\\D\u0131fferent20Project-6-Ap\u0131Weather\\Context\\WeatherContext.cs",
+              "RelativeDocumentMoniker": "D\u0131fferent20Project-6-Ap\u0131Weather\\Context\\WeatherContext.cs",
+              "ToolTip": "C:\\Users\\eMu\\source\\repos\\D\u0131fferent20Project-6-Ap\u0131Weather\\D\u0131fferent20Project-6-Ap\u0131Weather\\Context\\WeatherContext.cs",
+              "RelativeToolTip": "D\u0131fferent20Project-6-Ap\u0131Weather\\Context\\WeatherContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-23T12:25:28.6Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "WeathersController.cs",
+              "DocumentMoniker": "C:\\Users\\eMu\\source\\repos\\D\u0131fferent20Project-6-Ap\u0131Weather\\D\u0131fferent20Project-6-Ap\u0131Weather\\Controllers\\WeathersController.cs",
+              "RelativeDocumentMoniker": "D\u0131fferent20Project-6-Ap\u0131Weather\\Controllers\\WeathersController.cs",
+              "ToolTip": "C:\\Users\\eMu\\source\\repos\\D\u0131fferent20Project-6-Ap\u0131Weather\\D\u0131fferent20Project-6-Ap\u0131Weather\\Controllers\\WeathersController.cs",
+              "RelativeToolTip": "D\u0131fferent20Project-6-Ap\u0131Weather\\Controllers\\WeathersController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACgAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-23T11:59:46.891Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

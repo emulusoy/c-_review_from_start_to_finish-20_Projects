@@ -1,0 +1,11 @@
+C:\Users\Mustafa ulusoy\source\repos\20DifferentProjects-1_Adonet_Customer\20DifferentProjects-1_Adonet_Customer\bin\Debug\20DifferentProjects-1_Adonet_Customer.exe.config
+C:\Users\Mustafa ulusoy\source\repos\20DifferentProjects-1_Adonet_Customer\20DifferentProjects-1_Adonet_Customer\bin\Debug\20DifferentProjects-1_Adonet_Customer.exe
+C:\Users\Mustafa ulusoy\source\repos\20DifferentProjects-1_Adonet_Customer\20DifferentProjects-1_Adonet_Customer\bin\Debug\20DifferentProjects-1_Adonet_Customer.pdb
+C:\Users\Mustafa ulusoy\source\repos\20DifferentProjects-1_Adonet_Customer\20DifferentProjects-1_Adonet_Customer\obj\Debug\20DifferentProjects-1_Adonet_Customer.csproj.AssemblyReference.cache
+C:\Users\Mustafa ulusoy\source\repos\20DifferentProjects-1_Adonet_Customer\20DifferentProjects-1_Adonet_Customer\obj\Debug\_20DifferentProjects_1_Adonet_Customer.Form1.resources
+C:\Users\Mustafa ulusoy\source\repos\20DifferentProjects-1_Adonet_Customer\20DifferentProjects-1_Adonet_Customer\obj\Debug\_20DifferentProjects_1_Adonet_Customer.Properties.Resources.resources
+C:\Users\Mustafa ulusoy\source\repos\20DifferentProjects-1_Adonet_Customer\20DifferentProjects-1_Adonet_Customer\obj\Debug\20DifferentProjects-1_Adonet_Customer.csproj.GenerateResource.cache
+C:\Users\Mustafa ulusoy\source\repos\20DifferentProjects-1_Adonet_Customer\20DifferentProjects-1_Adonet_Customer\obj\Debug\20DifferentProjects-1_Adonet_Customer.csproj.CoreCompileInputs.cache
+C:\Users\Mustafa ulusoy\source\repos\20DifferentProjects-1_Adonet_Customer\20DifferentProjects-1_Adonet_Customer\obj\Debug\20DifferentProjects-1_Adonet_Customer.exe
+C:\Users\Mustafa ulusoy\source\repos\20DifferentProjects-1_Adonet_Customer\20DifferentProjects-1_Adonet_Customer\obj\Debug\20DifferentProjects-1_Adonet_Customer.pdb
+C:\Users\Mustafa ulusoy\source\repos\20DifferentProjects-1_Adonet_Customer\20DifferentProjects-1_Adonet_Customer\obj\Debug\_20DifferentProjects_1_Adonet_Customer.Form2.resources

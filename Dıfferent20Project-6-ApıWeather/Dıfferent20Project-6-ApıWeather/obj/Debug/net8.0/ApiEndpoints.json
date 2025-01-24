@@ -1,0 +1,106 @@
+[
+  {
+    "ContainingType": "D\u0131fferent20Project_6_Ap\u0131Weather.Controllers.WeathersController",
+    "Method": "WeatherCityList",
+    "RelativePath": "api/Weathers",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "D\u0131fferent20Project_6_Ap\u0131Weather.Controllers.WeathersController",
+    "Method": "CreateWeatherCity",
+    "RelativePath": "api/Weathers",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "city",
+        "Type": "D\u0131fferent20Project_6_Ap\u0131Weather.Entities.City",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "D\u0131fferent20Project_6_Ap\u0131Weather.Controllers.WeathersController",
+    "Method": "DeleteWeatherCity",
+    "RelativePath": "api/Weathers",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "D\u0131fferent20Project_6_Ap\u0131Weather.Controllers.WeathersController",
+    "Method": "PutWeatherCity",
+    "RelativePath": "api/Weathers",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "city",
+        "Type": "D\u0131fferent20Project_6_Ap\u0131Weather.Entities.City",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "D\u0131fferent20Project_6_Ap\u0131Weather.Controllers.WeathersController",
+    "Method": "GetByIdWeatherCity",
+    "RelativePath": "api/Weathers/GetByIdWeatherCity",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "D\u0131fferent20Project_6_Ap\u0131Weather.Controllers.WeathersController",
+    "Method": "MaxTemp",
+    "RelativePath": "api/Weathers/MaxTemp",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "D\u0131fferent20Project_6_Ap\u0131Weather.Controllers.WeathersController",
+    "Method": "MinTemp",
+    "RelativePath": "api/Weathers/MinTemp",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "D\u0131fferent20Project_6_Ap\u0131Weather.Controllers.WeathersController",
+    "Method": "TotalCityCount",
+    "RelativePath": "api/Weathers/TotalCityCount",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  }
+]

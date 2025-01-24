@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<edmx:Edmx Version="3.0" xmlns:edmx="http://schemas.microsoft.com/ado/2009/11/edmx">
+ <!-- EF Designer content (DO NOT EDIT MANUALLY BELOW HERE) -->
+  <edmx:Designer xmlns="http://schemas.microsoft.com/ado/2009/11/edmx">
+    <!-- Diagram content (shape and connector positions) -->
+    <edmx:Diagrams>
+      <Diagram DiagramId="6520f1e45dbd4d3198f9f4d9cb149f81" Name="Diagram1">
+        <EntityTypeShape EntityType="Different20P_3_Statistic_DbModel.sysdiagrams" Width="1.5" PointX="5.75" PointY="4.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="Different20P_3_Statistic_DbModel.TblCategory" Width="1.5" PointX="0.75" PointY="1.375" IsExpanded="true" />
+        <EntityTypeShape EntityType="Different20P_3_Statistic_DbModel.TblCustomer" Width="1.5" PointX="3" PointY="5.25" IsExpanded="true" />
+        <EntityTypeShape EntityType="Different20P_3_Statistic_DbModel.TblOrder" Width="1.5" PointX="5.25" PointY="1" IsExpanded="true" />
+        <EntityTypeShape EntityType="Different20P_3_Statistic_DbModel.TblProduct" Width="1.5" PointX="3" PointY="1" IsExpanded="true" />
+        <AssociationConnector Association="Different20P_3_Statistic_DbModel.FK_TblProduct_TblCategory1" ManuallyRouted="false" />
+        <AssociationConnector Association="Different20P_3_Statistic_DbModel.FK_TblOrder_TblCustomer" ManuallyRouted="false" />
+        <AssociationConnector Association="Different20P_3_Statistic_DbModel.FK_TblOrder_TblProduct" ManuallyRouted="false" />
+      </Diagram>
+    </edmx:Diagrams>
+  </edmx:Designer>
+</edmx:Edmx>

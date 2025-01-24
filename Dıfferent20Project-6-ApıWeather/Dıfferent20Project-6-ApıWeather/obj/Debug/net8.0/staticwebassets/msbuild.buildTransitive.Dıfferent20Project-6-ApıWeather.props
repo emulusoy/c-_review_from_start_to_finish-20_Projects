@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\Dıfferent20Project-6-ApıWeather.props" />
+</Project>
