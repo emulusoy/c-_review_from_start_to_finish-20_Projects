@@ -1,0 +1,13 @@
+C:\Users\eMu\source\repos\Different20Project-13-GassPrice\Different20Project-13-GassPrice\bin\Debug\Different20Project-13-GassPrice.exe.config
+C:\Users\eMu\source\repos\Different20Project-13-GassPrice\Different20Project-13-GassPrice\bin\Debug\Different20Project-13-GassPrice.exe
+C:\Users\eMu\source\repos\Different20Project-13-GassPrice\Different20Project-13-GassPrice\bin\Debug\Different20Project-13-GassPrice.pdb
+C:\Users\eMu\source\repos\Different20Project-13-GassPrice\Different20Project-13-GassPrice\obj\Debug\Different20Project-13-GassPrice.csproj.AssemblyReference.cache
+C:\Users\eMu\source\repos\Different20Project-13-GassPrice\Different20Project-13-GassPrice\obj\Debug\Different20Project_13_GassPrice.Form1.resources
+C:\Users\eMu\source\repos\Different20Project-13-GassPrice\Different20Project-13-GassPrice\obj\Debug\Different20Project_13_GassPrice.Properties.Resources.resources
+C:\Users\eMu\source\repos\Different20Project-13-GassPrice\Different20Project-13-GassPrice\obj\Debug\Different20Project-13-GassPrice.csproj.GenerateResource.cache
+C:\Users\eMu\source\repos\Different20Project-13-GassPrice\Different20Project-13-GassPrice\obj\Debug\Different20Project-13-GassPrice.csproj.CoreCompileInputs.cache
+C:\Users\eMu\source\repos\Different20Project-13-GassPrice\Different20Project-13-GassPrice\obj\Debug\Different20Project-13-GassPrice.exe
+C:\Users\eMu\source\repos\Different20Project-13-GassPrice\Different20Project-13-GassPrice\obj\Debug\Different20Project-13-GassPrice.pdb
+C:\Users\eMu\source\repos\Different20Project-13-GassPrice\Different20Project-13-GassPrice\bin\Debug\Newtonsoft.Json.dll
+C:\Users\eMu\source\repos\Different20Project-13-GassPrice\Different20Project-13-GassPrice\bin\Debug\Newtonsoft.Json.xml
+C:\Users\eMu\source\repos\Different20Project-13-GassPrice\Different20Project-13-GassPrice\obj\Debug\Differen.208DF796.Up2Date
