@@ -1,0 +1,13 @@
+C:\Users\eMu\source\repos\Different20Project-11-WeatherApi\Different20Project-11-WeatherApi\bin\Debug\Different20Project-11-WeatherApi.exe.config
+C:\Users\eMu\source\repos\Different20Project-11-WeatherApi\Different20Project-11-WeatherApi\bin\Debug\Different20Project-11-WeatherApi.exe
+C:\Users\eMu\source\repos\Different20Project-11-WeatherApi\Different20Project-11-WeatherApi\bin\Debug\Different20Project-11-WeatherApi.pdb
+C:\Users\eMu\source\repos\Different20Project-11-WeatherApi\Different20Project-11-WeatherApi\bin\Debug\Newtonsoft.Json.dll
+C:\Users\eMu\source\repos\Different20Project-11-WeatherApi\Different20Project-11-WeatherApi\bin\Debug\Newtonsoft.Json.xml
+C:\Users\eMu\source\repos\Different20Project-11-WeatherApi\Different20Project-11-WeatherApi\obj\Debug\Different20Project-11-WeatherApi.csproj.AssemblyReference.cache
+C:\Users\eMu\source\repos\Different20Project-11-WeatherApi\Different20Project-11-WeatherApi\obj\Debug\Different20Project_11_WeatherApi.Form1.resources
+C:\Users\eMu\source\repos\Different20Project-11-WeatherApi\Different20Project-11-WeatherApi\obj\Debug\Different20Project_11_WeatherApi.Properties.Resources.resources
+C:\Users\eMu\source\repos\Different20Project-11-WeatherApi\Different20Project-11-WeatherApi\obj\Debug\Different20Project-11-WeatherApi.csproj.GenerateResource.cache
+C:\Users\eMu\source\repos\Different20Project-11-WeatherApi\Different20Project-11-WeatherApi\obj\Debug\Different20Project-11-WeatherApi.csproj.CoreCompileInputs.cache
+C:\Users\eMu\source\repos\Different20Project-11-WeatherApi\Different20Project-11-WeatherApi\obj\Debug\Differen.A0635C91.Up2Date
+C:\Users\eMu\source\repos\Different20Project-11-WeatherApi\Different20Project-11-WeatherApi\obj\Debug\Different20Project-11-WeatherApi.exe
+C:\Users\eMu\source\repos\Different20Project-11-WeatherApi\Different20Project-11-WeatherApi\obj\Debug\Different20Project-11-WeatherApi.pdb
