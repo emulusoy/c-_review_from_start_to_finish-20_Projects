@@ -1,0 +1,86 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\eMu\\source\\repos\\Different20Project-14-MailRegister\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B5BC1038-5939-4238-BD18-4F3767106416}|Different20Project-14-MailRegister\\Different20Project-14-MailRegister.csproj|c:\\users\\emu\\source\\repos\\different20project-14-mailregister\\different20project-14-mailregister\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B5BC1038-5939-4238-BD18-4F3767106416}|Different20Project-14-MailRegister\\Different20Project-14-MailRegister.csproj|solutionrelative:different20project-14-mailregister\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B5BC1038-5939-4238-BD18-4F3767106416}|Different20Project-14-MailRegister\\Different20Project-14-MailRegister.csproj|c:\\users\\emu\\source\\repos\\different20project-14-mailregister\\different20project-14-mailregister\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{B5BC1038-5939-4238-BD18-4F3767106416}|Different20Project-14-MailRegister\\Different20Project-14-MailRegister.csproj|solutionrelative:different20project-14-mailregister\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B5BC1038-5939-4238-BD18-4F3767106416}|Different20Project-14-MailRegister\\Different20Project-14-MailRegister.csproj|c:\\users\\emu\\source\\repos\\different20project-14-mailregister\\different20project-14-mailregister\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B5BC1038-5939-4238-BD18-4F3767106416}|Different20Project-14-MailRegister\\Different20Project-14-MailRegister.csproj|solutionrelative:different20project-14-mailregister\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B5BC1038-5939-4238-BD18-4F3767106416}|Different20Project-14-MailRegister\\Different20Project-14-MailRegister.csproj|c:\\users\\emu\\source\\repos\\different20project-14-mailregister\\different20project-14-mailregister\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{B5BC1038-5939-4238-BD18-4F3767106416}|Different20Project-14-MailRegister\\Different20Project-14-MailRegister.csproj|solutionrelative:different20project-14-mailregister\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form2.cs",
+              "DocumentMoniker": "C:\\Users\\eMu\\source\\repos\\Different20Project-14-MailRegister\\Different20Project-14-MailRegister\\Form2.cs",
+              "RelativeDocumentMoniker": "Different20Project-14-MailRegister\\Form2.cs",
+              "ToolTip": "C:\\Users\\eMu\\source\\repos\\Different20Project-14-MailRegister\\Different20Project-14-MailRegister\\Form2.cs",
+              "RelativeToolTip": "Different20Project-14-MailRegister\\Form2.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAMwBwAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-29T10:38:52.07Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\eMu\\source\\repos\\Different20Project-14-MailRegister\\Different20Project-14-MailRegister\\Form1.cs",
+              "RelativeDocumentMoniker": "Different20Project-14-MailRegister\\Form1.cs",
+              "ToolTip": "C:\\Users\\eMu\\source\\repos\\Different20Project-14-MailRegister\\Different20Project-14-MailRegister\\Form1.cs",
+              "RelativeToolTip": "Different20Project-14-MailRegister\\Form1.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAA6wD4AAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-29T10:18:37.095Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form2.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\eMu\\source\\repos\\Different20Project-14-MailRegister\\Different20Project-14-MailRegister\\Form2.cs",
+              "RelativeDocumentMoniker": "Different20Project-14-MailRegister\\Form2.cs",
+              "ToolTip": "C:\\Users\\eMu\\source\\repos\\Different20Project-14-MailRegister\\Different20Project-14-MailRegister\\Form2.cs [Design]",
+              "RelativeToolTip": "Different20Project-14-MailRegister\\Form2.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-29T10:14:23.306Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\eMu\\source\\repos\\Different20Project-14-MailRegister\\Different20Project-14-MailRegister\\Form1.cs",
+              "RelativeDocumentMoniker": "Different20Project-14-MailRegister\\Form1.cs",
+              "ToolTip": "C:\\Users\\eMu\\source\\repos\\Different20Project-14-MailRegister\\Different20Project-14-MailRegister\\Form1.cs [Design]",
+              "RelativeToolTip": "Different20Project-14-MailRegister\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-29T10:10:27.687Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
