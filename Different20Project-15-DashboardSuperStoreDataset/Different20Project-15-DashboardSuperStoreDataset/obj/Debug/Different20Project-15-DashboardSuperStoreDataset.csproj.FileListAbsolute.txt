@@ -1,0 +1,10 @@
+C:\Users\eMu\source\repos\Different20Project-15-DashboardSuperStoreDataset\Different20Project-15-DashboardSuperStoreDataset\bin\Debug\Different20Project-15-DashboardSuperStoreDataset.exe.config
+C:\Users\eMu\source\repos\Different20Project-15-DashboardSuperStoreDataset\Different20Project-15-DashboardSuperStoreDataset\bin\Debug\Different20Project-15-DashboardSuperStoreDataset.exe
+C:\Users\eMu\source\repos\Different20Project-15-DashboardSuperStoreDataset\Different20Project-15-DashboardSuperStoreDataset\bin\Debug\Different20Project-15-DashboardSuperStoreDataset.pdb
+C:\Users\eMu\source\repos\Different20Project-15-DashboardSuperStoreDataset\Different20Project-15-DashboardSuperStoreDataset\obj\Debug\Different20Project-15-DashboardSuperStoreDataset.csproj.AssemblyReference.cache
+C:\Users\eMu\source\repos\Different20Project-15-DashboardSuperStoreDataset\Different20Project-15-DashboardSuperStoreDataset\obj\Debug\Different20Project_15_DashboardSuperStoreDataset.Form1.resources
+C:\Users\eMu\source\repos\Different20Project-15-DashboardSuperStoreDataset\Different20Project-15-DashboardSuperStoreDataset\obj\Debug\Different20Project_15_DashboardSuperStoreDataset.Properties.Resources.resources
+C:\Users\eMu\source\repos\Different20Project-15-DashboardSuperStoreDataset\Different20Project-15-DashboardSuperStoreDataset\obj\Debug\Different20Project-15-DashboardSuperStoreDataset.csproj.GenerateResource.cache
+C:\Users\eMu\source\repos\Different20Project-15-DashboardSuperStoreDataset\Different20Project-15-DashboardSuperStoreDataset\obj\Debug\Different20Project-15-DashboardSuperStoreDataset.csproj.CoreCompileInputs.cache
+C:\Users\eMu\source\repos\Different20Project-15-DashboardSuperStoreDataset\Different20Project-15-DashboardSuperStoreDataset\obj\Debug\Different20Project-15-DashboardSuperStoreDataset.exe
+C:\Users\eMu\source\repos\Different20Project-15-DashboardSuperStoreDataset\Different20Project-15-DashboardSuperStoreDataset\obj\Debug\Different20Project-15-DashboardSuperStoreDataset.pdb
