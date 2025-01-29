@@ -1,0 +1,15 @@
+C:\Users\eMu\source\repos\Different20Project-16-TableStatusMomentary\Different20Project-16-TableStatusMomentary\bin\Debug\Different20Project-16-TableStatusMomentary.exe.config
+C:\Users\eMu\source\repos\Different20Project-16-TableStatusMomentary\Different20Project-16-TableStatusMomentary\bin\Debug\Different20Project-16-TableStatusMomentary.exe
+C:\Users\eMu\source\repos\Different20Project-16-TableStatusMomentary\Different20Project-16-TableStatusMomentary\bin\Debug\Different20Project-16-TableStatusMomentary.pdb
+C:\Users\eMu\source\repos\Different20Project-16-TableStatusMomentary\Different20Project-16-TableStatusMomentary\bin\Debug\EntityFramework.dll
+C:\Users\eMu\source\repos\Different20Project-16-TableStatusMomentary\Different20Project-16-TableStatusMomentary\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\eMu\source\repos\Different20Project-16-TableStatusMomentary\Different20Project-16-TableStatusMomentary\bin\Debug\EntityFramework.xml
+C:\Users\eMu\source\repos\Different20Project-16-TableStatusMomentary\Different20Project-16-TableStatusMomentary\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\eMu\source\repos\Different20Project-16-TableStatusMomentary\Different20Project-16-TableStatusMomentary\obj\Debug\Different20Project-16-TableStatusMomentary.csproj.AssemblyReference.cache
+C:\Users\eMu\source\repos\Different20Project-16-TableStatusMomentary\Different20Project-16-TableStatusMomentary\obj\Debug\Different20Project_16_TableStatusMomentary.Form1.resources
+C:\Users\eMu\source\repos\Different20Project-16-TableStatusMomentary\Different20Project-16-TableStatusMomentary\obj\Debug\Different20Project_16_TableStatusMomentary.Properties.Resources.resources
+C:\Users\eMu\source\repos\Different20Project-16-TableStatusMomentary\Different20Project-16-TableStatusMomentary\obj\Debug\Different20Project-16-TableStatusMomentary.csproj.GenerateResource.cache
+C:\Users\eMu\source\repos\Different20Project-16-TableStatusMomentary\Different20Project-16-TableStatusMomentary\obj\Debug\Different20Project-16-TableStatusMomentary.csproj.CoreCompileInputs.cache
+C:\Users\eMu\source\repos\Different20Project-16-TableStatusMomentary\Different20Project-16-TableStatusMomentary\obj\Debug\Differen.1450B988.Up2Date
+C:\Users\eMu\source\repos\Different20Project-16-TableStatusMomentary\Different20Project-16-TableStatusMomentary\obj\Debug\Different20Project-16-TableStatusMomentary.exe
+C:\Users\eMu\source\repos\Different20Project-16-TableStatusMomentary\Different20Project-16-TableStatusMomentary\obj\Debug\Different20Project-16-TableStatusMomentary.pdb
